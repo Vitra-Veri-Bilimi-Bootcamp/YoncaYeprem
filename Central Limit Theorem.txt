@@ -1,0 +1,3 @@
+Central Limit Theorem
+
+When you have a dataset (or population), its distribution does not matter(it can be normal,uniform,nominal),if you start sampling from the dataset and take sufficient number of random samples and then calculate the mean of each sample, you will see that the mean of the samples took from dataset will approximate a normal distribution. The  number of samples getting bigger, they will more closer to a normal distribution.Their distribution will have almost same mean as original datasets mean and the variance will almost be the variance of the original dataset divided by the number of samples too.
